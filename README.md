@@ -1,1 +1,1 @@
-# git-demo
+# Welcome to the git demo repo
